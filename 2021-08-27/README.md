@@ -2,7 +2,7 @@
 
 ## Informações
 **Data/hora:** 2021/08/27, 06:30  
-**Local:** Alura línguas 
+**Local:** Alura línguas <br>
 **Motivo:** Estudos em inglês
 
 ## Participante
