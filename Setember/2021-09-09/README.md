@@ -2,7 +2,7 @@
 
 ## Informações
 
-**Data/hora:** 2021/09/10, 19:00
+**Data/hora:** 2021/09/09, 19:00
 **Local:** Alura línguas <br>
 **Motivo:** Estudos em inglês
 
