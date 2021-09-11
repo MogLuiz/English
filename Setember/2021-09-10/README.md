@@ -2,7 +2,7 @@
 
 ## Informações
 
-**Data/hora:** 2021/09/10, 19:00
+**Data/hora:** 2021/09/10, 07:30
 **Local:** Alura línguas <br>
 **Motivo:** Estudos em inglês
 
@@ -15,4 +15,4 @@
 | Item                  | Descrição                 |
 | --------------------- | ------------------------- |
 | Comunicação essencial | • At an Apple store• <br> |
-| Conteúdo              | • Diálogo• <br>           |
+| Conteúdo              | • Explicação do Diálogo• <br>|

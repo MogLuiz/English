@@ -2,7 +2,7 @@
 
 ## Informações
 
-**Data/hora:** 2021/09/06, 23:30
+**Data/hora:** 2021/09/07, 08:00
 **Local:** Alura línguas <br>
 **Motivo:** Estudos em inglês
 
@@ -15,4 +15,4 @@
 | Item                  | Descrição                     |
 | --------------------- | ----------------------------- |
 | Comunicação essencial | • A small apartment• <br>     |
-| Conteúdo              | • Explicação do diálogo• <br> |
+| Conteúdo              | • Exercícios do diálogo• <br> |
