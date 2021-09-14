@@ -4,7 +4,6 @@
 
 **Data/hora:** 2021/09/14, 07:00
 **Local:** Alura línguas <br>
-**Motivo:** Estudos em inglês
 
 ## Participante
 
