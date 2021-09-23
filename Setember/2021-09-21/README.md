@@ -2,7 +2,7 @@
 
 ## Informações
 
-**Data/hora:** 2021/09/15, 06:10
+**Data/hora:** 2021/09/21, 06:13
 **Local:** Alura línguas <br>
 
 ## Participante
@@ -14,4 +14,4 @@
 | Item                  | Descrição                  |
 | --------------------- | -------------------------- |
 | Comunicação essencial | • At the restaurant• <br>  |
-| Conteúdo              | • Tradução do Diálogo <br> |
+| Conteúdo              | • Explicação do Diálogo <br> |
